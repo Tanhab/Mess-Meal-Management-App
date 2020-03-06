@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">723710559363-htovvnju23njjdllctjcb5ovvt1tdf0o.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mess-meal-mangement.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">723710559363</string>
+    <string name="google_api_key" translatable="false">AIzaSyDK3GiCSIZGxWN_O8NPHK6ySH-AKvpsBmE</string>
+    <string name="google_app_id" translatable="false">1:723710559363:android:4070182fdc1243493387b6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDK3GiCSIZGxWN_O8NPHK6ySH-AKvpsBmE</string>
+    <string name="google_storage_bucket" translatable="false">mess-meal-mangement.appspot.com</string>
+    <string name="project_id" translatable="false">mess-meal-mangement</string>
+</resources>
